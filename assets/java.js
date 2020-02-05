@@ -7,8 +7,6 @@ $(document).ready(function() {
         "Formula 1",
         "Mountain Biking",
         "Skiing",
-        "Cats",
-        "Video Games",
         "Escape From Tarkov",
         "Rally Racing",
         "Space",
