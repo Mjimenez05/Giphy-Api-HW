@@ -3,9 +3,11 @@
     margin-right: 10px;
 }
 
-#magic-maker {
+#magic-maker,
+#topic {
     display: block;
-    width: 270px;
+    width: 280px;
+    text-align: center;
 }
 
 .each-gif {
@@ -18,10 +20,6 @@
     z-index: 100;
     width: 300px;
     padding-left: 15px;
-}
-
-#topic {
-    width: 270px;
 }
 
 #gif-catcher {
