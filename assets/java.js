@@ -21,8 +21,8 @@ $(document).ready(function() {
 
     renderButtons();
 
-    // clicking/submitting the #magic-maker
-    $("#magic-maker").click(function() {
+    // clicking/submitting the #submit-button
+    $("#submit-button").click(function() {
         event.preventDefault();
         var newTopic = $("#topic").val().trim();
         topics.push(newTopic);
